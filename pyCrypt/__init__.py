@@ -1,0 +1,1 @@
+from pyCrypt.pycrypt import getCrypt
